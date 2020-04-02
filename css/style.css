@@ -2,7 +2,7 @@
     font-family: 'Wisdom Script Regular';
     font-style: normal;
     font-weight: normal;
-    src: url('/fonts/Wisdom Script AJ.woff') format('woff');
+    src: url('../fonts/Wisdom Script AJ.woff') format('woff');
 }
 
 /* montserrat-regular - latin */
@@ -10,7 +10,7 @@
     font-family: 'Montserrat Regular';
     font-style: normal;
     font-weight: 400;
-    src: url('/fonts/montserrat-v14-latin-regular.woff2') format('woff2');
+    src: url('../fonts/montserrat-v14-latin-regular.woff2') format('woff2');
          
   }
   /* montserrat-700 - latin */
@@ -18,14 +18,14 @@
     font-family: 'Montserrat Bold';
     font-style: normal;
     font-weight: 700;
-    src: url('/fonts/montserrat-v14-latin-700.woff2') format('woff2');      
+    src: url('../fonts/montserrat-v14-latin-700.woff2') format('woff2');      
   }
 
   @font-face {
     font-family: 'Droid Serif Italic';
     font-style: normal;
     font-weight: normal;
-    src: url('/fonts/DroidSerif-Italic.woff') format('woff');
+    src: url('../fonts/DroidSerif-Italic.woff') format('woff');
   }
 
   /* roboto-slab-regular - latin */
@@ -33,7 +33,7 @@
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 400;
-    src: url('/fonts/roboto-slab-v11-latin-regular.woff2') format('woff2');
+    src: url('../fonts/roboto-slab-v11-latin-regular.woff2') format('woff2');
         
   }
 
@@ -152,15 +152,15 @@
   }
 
 .basket-ico {
-    background-image: url(/img/Icon-Basket.png);
+    background-image: url(../img/Icon-Basket.png);
 }
 
 .laptop-ico {
-    background-image: url(/img/Icon-Laptop.png);
+    background-image: url(../img/Icon-Laptop.png);
 }
 
 .locked-ico {
-    background-image: url(/img/Icon-Locked.png);
+    background-image: url(../img/Icon-Locked.png);
 }
  
 .service-description {
